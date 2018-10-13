@@ -52,15 +52,15 @@
 
 [delete](dml/DeleteTest.java)
 
-[ResultMapTest](ResultMapTest.java)
+[ResultMapTest](resultmap/ResultMapTest.java)
 
-[SelectMapTest](SelectMapTest.java)
+[SelectMapTest](resultmap/SelectMapTest.java)
 
 ---
 
 多表查询必须用resultMap完成关联映射
 
-[SelectStudentTest](SelectStudentTest.java)
+[SelectStudentTest](resultmap/SelectStudentTest.java)
 
 
 关键元素<association>
@@ -69,10 +69,7 @@
 
 集合映射
 
-[SelectClazzTest](SelectClazzTest.java)
+[SelectClazzTest](resultmap/SelectClazzTest.java)
 
 关键元素<collection>
-
-
-## MyBatis关联映射和动态SQL ##
 
