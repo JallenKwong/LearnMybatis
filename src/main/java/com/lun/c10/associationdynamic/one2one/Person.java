@@ -19,7 +19,7 @@ card_id INT UNIQUE,
 FOREIGN KEY (card_id) REFERENCES tb_card(id)
 );
 
-INSERT INTO tb_person(NAME,sex,age,card_id) VALUES('jack','男',23,1)
+INSERT INTO tb_person(NAME,sex,age,card_id) VALUES('jack','男',23,1);
 
  * */
 public class Person implements Serializable {

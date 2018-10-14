@@ -32,9 +32,7 @@ VALUES('疯狂Android讲义',99.9,'李刚老师经典著作');
 INSERT INTO tb_article(NAME,price,remark) 
 VALUES('疯狂iOS讲义',89.9,'李刚老师经典著作');
 INSERT INTO tb_article(NAME,price,remark) 
-VALUES('SpringMVC+MyBatis企业开发',69.9,'肖文吉老师经典著作');
-
-139.8+108.9=217.8
+VALUES('SpringMVC开发',69.9,'肖文吉老师经典著作');
 
 CREATE TABLE tb_order(
 id INT PRIMARY KEY AUTO_INCREMENT,
