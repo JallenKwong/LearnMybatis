@@ -18,7 +18,7 @@ import java.io.Serializable;
   `sex` CHAR(2) DEFAULT NULL,
   `age` INT(11) DEFAULT NULL,
   PRIMARY KEY  (`id`)
-)
+);
  */
 public class User implements Serializable{
 	// 用户标识

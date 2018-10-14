@@ -6,7 +6,7 @@
 	<groupId>com.lun</groupId>
 	<artifactId>LearnMybatis</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>LearnMybatis</name>
 	<url>http://maven.apache.org</url>
